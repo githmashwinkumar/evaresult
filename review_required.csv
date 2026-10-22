@@ -1,0 +1,2 @@
+exception_id,terminal,event_type,carrier_code,event_ts,review_required,notes
+CPX-88216,Terminal 3,doc_mismatch,,2026-08-14T11:47:00,yes,"Missing carrier_code; cannot infer from other records; Timestamp timezone unspecified; kept as local/naive, not converted to UTC"
